@@ -6,4 +6,4 @@ for i in a:
     if i==j:
       if i not in c:
         c.append(i)
-print(c)
+print("Common numbers" + c)
